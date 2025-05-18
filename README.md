@@ -2,7 +2,7 @@
 
 **A cutting-edge e-learning platform** leveraging the latest stable releases of Laravel (v11) and Angular (v18) for optimal performance, security, and developer experience.
 
-**Learnify** is a full-featured e-learning platform designed for educational institutions, offering live classes, recorded lectures, automated grading, and performance analytics — all with secure multi-role access for students, teachers, and parents.
+**Learnify** is a full-featured e-learning platform designed for educational institutions, offering live classes, recorded lectures, automated grading, and performance analytics — all with secure multi-role access for students, teachers, and assitent.
 
 > 🚀 Developed with Angular, Laravel, and MySQL as part of the ITI Graduation Program by a team of passionate developers.
 
