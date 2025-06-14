@@ -28,8 +28,8 @@
 - **Multi-Role Dashboards:** Tailored interfaces for Students, Teachers, and Parents
 - **Performance Analytics:** Detailed progress tracking with visual reports
 - **Responsive UI:** Mobile-friendly Bootstrap 5 design
-- **RealTime Notification 
-- **Student Leaderboard
+- **RealTime Notification** 
+- **Student Leaderboard**
 
 ## 🛠️ Tech Stack & Integrations
 
