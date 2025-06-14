@@ -39,7 +39,7 @@
 | **Backend**       | Laravel 11 (PHP 8.2+), Laravel Reverb (WebSockets), Laravel Pulse, Sanctum   |
 | **Database**      | MySQL 8.0+ (With JSON support) (Eloquent ORM)                                |
 | **APIs**          | Zoom Meetings API, Paymob Payment Gateway, SendGrid Email API                |
-| **Security**      | JWT Authentication, Role-Based Access Control, Data Encryption               |
+| **Security**      | sanctum Authentication, Role-Based Access Control, Data Encryption               |
 
 ## 🚀 Modern Stack Advantages
 
